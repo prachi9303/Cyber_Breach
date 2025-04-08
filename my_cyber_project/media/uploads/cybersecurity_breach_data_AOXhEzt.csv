@@ -1,0 +1,17 @@
+ID,Company,Year,Records Exposed,Sector,Breach Type,Source Link,Attack Type,Time
+1,21st Century Oncology,2016,"22,00,000",healthcare,hacked,https://www.linkedin.com/jobs/view/930124877/?refId=d3493ec8-privateid.37f8-4218-92b2-4656b383a955,Man-in-the-middle (MitM) attack,1:00 AM
+2,Accendo Insurance Co.,2011,"1,75,350",healthcare,poor security,https://www.bayt.com/en/job-seekers/create-account/?url_id=1&utm_medium=associate&utm_source=walkinu,Phishing and spear phishing attacks,2:00 AM
+3,Adobe Systems,2013,"15,20,00,000",tech,hacked,https://www.google.co.in/search?q=brainmagic+infotech,Drive-by attack,3:00 AM
+4,Advocate Medical Group,2013,"40,00,000",healthcare,lost / stolen media,https://stackoverflow.com/questions/43727583/expected-string-or-bytes-like-object,Password attack,4:00 AM
+5,AerServ (subsidiary of InMobi),2018,"75,000",advertising,hacked,https://www.google.co.in/search?q=python+free+online+course+certification,SQL injection attack,5:00 AM
+6,"Affinity Health Plan, Inc.",2009,"3,44,579",healthcare,lost / stolen media,http://localhost/phpmyadmin/index.php,Cross-site scripting (XSS) attack,6:00 AM
+7,Ameritrade,2005,"2,00,000",financial,lost / stolen media,https://realpython.com/pypi-publish-python-package,Eavesdropping attack,7:00 AM
+8,Ancestry.com,2015,"3,00,000",web,poor security,https://mail.google.com/mail/u/0/#inbox,Birthday attack,8:00 AM
+9,"Ankle & Foot Center of Tampa Bay, Inc.",2010,"1,56,000",healthcare,hacked,https://www.linkedin.com/jobs/view/927854395/privateid/,Teardrop attack,9:00 AM
+10,Anthem Inc.,2015,"8,00,00,000",healthcare,hacked,http://127.0.0.1:8000/user/userpage,Man-in-the-middle (MitM) attack,10:00 AM
+11,AOL,2004,"9,20,00,000",web,"inside job, hacked",https://www.linkedin.com/jobs/view/930124877/,Phishing and spear phishing attacks,11:00 AM
+12,AOL,2006,"2,00,00,000",web,accidentally published,https://www.google.co.in/search?q=dsv,Drive-by attack,12:00 PM
+13,AOL,2014,"24,00,000",web,hacked,https://www.google.co.in/search?q=erg,Password attack,1:00 PM
+14,Apple,2013,"2,75,000",tech,hacked,https://www.google.co.in/search?q=edi,SQL injection attack,2:00 PM
+15,Apple Health Medicaid,2016,"91,000",healthcare,poor security,https://www.google.co.in/search?q=electronic+data+interchange,Cross-site scripting (XSS) attack,3:00 PM
+16,"Apple, Inc./BlueToad",2012,"1,23,67,232","tech, retail",accidentally published,https://www.google.co.in/search?q=components+of+electronic+data,Unknown attack type,4:00 PM
